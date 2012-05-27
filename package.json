@@ -1,0 +1,9 @@
+{
+    "name": "javascript-compression-tests",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "express": "latest",
+        "uglify-js": "latest"
+    }
+}
