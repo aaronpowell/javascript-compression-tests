@@ -1,0 +1,1 @@
+Code sample for my blog post on [JavaScript compress](http://www.aaron-powell.com/javascript/understanding-compression-and-minification).
